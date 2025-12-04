@@ -19,7 +19,7 @@ Pentru editare, copiați fișierul în contul dvs. Figma (File → Duplicate to 
 Utilizați designurile ca referință pentru implementarea UI.
 Capturile de ecran pot fi folosite ca preview rapid al interfeței.
 
-🎨 Linkuri către prototipurile Figma
+# 🎨 Linkuri către prototipurile Figma
 🔗 Proiect Figma 1: [LINK_FIGMA_1](https://www.figma.com/design/S3BzqDnViTHJtfVZI3gHlN/Untitled?m=auto&t=sVeWO5PY478e4gvW-6)
 🔗 Proiect Figma 2: [LINK_FIGMA_2](https://www.figma.com/design/Imi3x2lbOgC2SwUuIvUzc0/Exerci%C8%9Biu-Profil?m=auto&t=sVeWO5PY478e4gvW-6)
 🔗 Proiect Figma 3: [LINK_FIGMA_3](https://www.figma.com/design/gSu3doziClsSwDLfqVm55W/Exercitiu-animatie-profil?m=auto&t=sVeWO5PY478e4gvW-6)
