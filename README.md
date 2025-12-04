@@ -29,3 +29,6 @@ Capturile de ecran pot fi folosite ca preview rapid al interfeței.
 👥 Autori
 Lilian – Design & Management
 
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/55e22c9c-cdd9-44fa-8f9a-c20eab76f28f" />
+
