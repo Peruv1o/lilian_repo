@@ -1,7 +1,6 @@
 # lilian_repo
-##P-2423 Repo
+## P-2423 Repo
 
-#Rog mult nu faceti schimbari in repository(plbm va aflu cine sunteti)
 
 📌 Proiectul de Design – Interfață UI/UX
 Acest repository conține două proiecte Figma realizate pentru dezvoltarea și prezentarea interfeței vizuale. Designurile includ structuri de pagină, componente UI și prototipuri utile pentru viitoarea implementare frontend.
